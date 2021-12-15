@@ -1,0 +1,9 @@
+{
+  "contest": "Perennial Finance contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: unnecessary `add`",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-12-perennial-findings/issues/56"
+}
