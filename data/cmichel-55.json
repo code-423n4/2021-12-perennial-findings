@@ -1,0 +1,9 @@
+{
+  "contest": "Perennial Finance contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Incentivizer rewards are unclear and can be more than allotted?",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2021-12-perennial-findings/issues/55"
+}
