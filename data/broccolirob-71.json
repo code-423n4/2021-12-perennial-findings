@@ -1,0 +1,9 @@
+{
+  "contest": "Perennial Finance contest",
+  "handle": "broccolirob",
+  "address": "0x5233aF283E7C359a1011Dc0ff480298E90c8CFd6",
+  "risk": "3",
+  "title": "Initialization functions can be front-run",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2021-12-perennial-findings/issues/71"
+}
