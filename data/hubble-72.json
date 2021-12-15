@@ -1,0 +1,9 @@
+{
+  "contest": "Perennial Finance contest",
+  "handle": "hubble",
+  "address": "0xd2DFc6F7a13AD5576eEBBDa7C8DEE36908Cb3AaD",
+  "risk": "1",
+  "title": "On updating the Incentive fee greater than UFixedLib18.ONE, new Programs can not be created",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2021-12-perennial-findings/issues/72"
+}
